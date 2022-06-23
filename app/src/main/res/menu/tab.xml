@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_chat"
+        android:icon="@drawable/one"
+        android:title="@string/first" />
+    <item
+        android:id="@+id/tab_media"
+        android:icon="@drawable/two"
+        android:title="@string/second" />
+    <item
+        android:id="@+id/tab_status"
+        android:icon="@drawable/three"
+        android:title="@string/third" />
+</menu>
